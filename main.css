@@ -34,7 +34,8 @@
 .person__rank {
   display: flex;
   justify-content: center;
-  position: center;
+  align-items: center;
+  position: absolute;
   right: 20px;
   top: 94px;
   width: 32px;
