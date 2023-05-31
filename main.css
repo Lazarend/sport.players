@@ -34,11 +34,12 @@
 .person__rank {
   display: flex;
   justify-content: center;
-  position: absolute;
+  position: center;
   right: 20px;
   top: 94px;
   width: 32px;
   height: 32px;
+  border-radius: 32px;
   background-color: #fff;
   font-size: 16px;
   line-height: 18px;
